@@ -14,11 +14,11 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
-  MANIFEST_BRANCH: fox_9.0
-  DEVICE: rosy
-  DT_LINK: https://github.com/ElytrA8/recovery_rosy
-  DT_PATH: device/xiaomi/rosy
+  MANIFEST: https://github.com/SHRP/manifest.git
+  MANIFEST_BRANCH: shrp-12.1
+  DEVICE: eqe
+  DT_LINK: https://github.com/rahulsingh0012/android_device_motorola_eqe.git
+  DT_PATH: device/motorola/eqe
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
